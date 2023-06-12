@@ -24,5 +24,5 @@ Making predictions using data from the Titanic
 
 ## Observações:
 
-Para obter o plot da árvore de decisão gerada, é necessário que tenha o RStudio instalado.
-De qualquer forma, estarei enviando um arquivo de imagem da árvore de decisão gerada pelo código.
+Para obter o plot da árvore de decisão gerada basta acessar o diratório Titanic e estará la o plot em formato pdf gerado pelo código. O nome do arquivo é "Rplots"
+Caso esteja utilizando o RStudio o plot aparecerá na seção de plots no canto direito da interface da ferramenta.
