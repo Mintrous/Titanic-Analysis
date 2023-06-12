@@ -20,8 +20,7 @@ Making predictions using data from the Titanic
 
 ## Execução:
 
-- Acesse a pasta "Titanic" e execute o seguinte comando:
-    ** Rscript titanicProblem.R **
+- Acesse a pasta "Titanic" e execute o seguinte comando: Rscript titanicProblem.R
 
 ## Observações:
 
